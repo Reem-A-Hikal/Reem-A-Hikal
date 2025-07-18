@@ -43,8 +43,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Reem-A-Hikal&show_icons=true&theme=default" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reem-A-Hikal&layout=compact&theme=default" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Reem-A-Hikal&show_icons=true&theme=buefy" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reem-A-Hikal&layout=compact&theme=buefy" />
 </div>
 
 ## 📫 Let's Connect
